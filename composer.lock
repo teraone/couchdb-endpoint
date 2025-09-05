@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "3073a74e5eafab45e79249ed3b4fd864",
+    "content-hash": "d9560e1fbcf1af754e75d9a4ef5bf7af",
     "packages": [
         {
             "name": "kore/data-object",
@@ -38,7 +38,7 @@
                 "MIT"
             ],
             "description": "Simple base class for data objects.",
-            "time": "2014-06-14 10:48:42"
+            "time": "2014-06-14T10:48:42+00:00"
         },
         {
             "name": "psr/log",
@@ -76,7 +76,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2012-12-21 11:40:51"
+            "time": "2012-12-21T11:40:51+00:00"
         },
         {
             "name": "symfony/config",
@@ -126,7 +126,7 @@
             ],
             "description": "Symfony Config Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-22 08:11:06"
+            "time": "2014-04-22T08:11:06+00:00"
         },
         {
             "name": "symfony/debug",
@@ -183,7 +183,7 @@
             ],
             "description": "Symfony Debug Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-16 10:34:42"
+            "time": "2014-04-16T10:34:42+00:00"
         },
         {
             "name": "symfony/dependency-injection",
@@ -242,7 +242,7 @@
             ],
             "description": "Symfony DependencyInjection Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-18 20:38:54"
+            "time": "2014-04-18T20:38:54+00:00"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -298,7 +298,7 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-16 10:34:31"
+            "time": "2014-04-16T10:34:31+00:00"
         },
         {
             "name": "symfony/filesystem",
@@ -347,7 +347,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-16 10:34:31"
+            "time": "2014-04-16T10:34:31+00:00"
         },
         {
             "name": "symfony/http-foundation",
@@ -402,7 +402,7 @@
             ],
             "description": "Symfony HttpFoundation Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-18 21:02:05"
+            "time": "2014-04-18T21:02:05+00:00"
         },
         {
             "name": "symfony/http-kernel",
@@ -475,7 +475,7 @@
             ],
             "description": "Symfony HttpKernel Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-27 13:39:18"
+            "time": "2014-04-27T13:39:18+00:00"
         },
         {
             "name": "symfony/routing",
@@ -543,7 +543,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2014-04-23 14:04:21"
+            "time": "2014-04-23T14:04:21+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -592,7 +592,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-18 20:37:09"
+            "time": "2014-04-18T20:37:09+00:00"
         }
     ],
     "packages-dev": [
@@ -633,7 +633,7 @@
                 "MIT"
             ],
             "description": "Library to replay and compare HTTP requets and responses",
-            "time": "2015-01-28 13:06:01"
+            "time": "2015-01-28T13:06:01+00:00"
         },
         {
             "name": "pdepend/pdepend",
@@ -666,7 +666,7 @@
                 "BSD-3-Clause"
             ],
             "description": "Official version of pdepend to be handled with Composer",
-            "time": "2013-12-04 17:46:00"
+            "time": "2013-12-04T17:46:00+00:00"
         },
         {
             "name": "phpmd/phpmd",
@@ -696,7 +696,7 @@
                 "src/main/php"
             ],
             "description": "Official version of PHPMD handled with Composer.",
-            "time": "2013-07-26 14:47:02"
+            "time": "2013-07-26T14:47:02+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -761,7 +761,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2014-04-30 09:01:21"
+            "time": "2014-04-30T09:01:21+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -806,7 +806,7 @@
                 "filesystem",
                 "iterator"
             ],
-            "time": "2013-10-10 15:34:57"
+            "time": "2013-10-10T15:34:57+00:00"
         },
         {
             "name": "phpunit/php-text-template",
@@ -850,7 +850,7 @@
             "keywords": [
                 "template"
             ],
-            "time": "2014-01-30 17:20:04"
+            "time": "2014-01-30T17:20:04+00:00"
         },
         {
             "name": "phpunit/php-timer",
@@ -894,7 +894,7 @@
             "keywords": [
                 "timer"
             ],
-            "time": "2013-08-02 07:42:54"
+            "time": "2013-08-02T07:42:54+00:00"
         },
         {
             "name": "phpunit/php-token-stream",
@@ -944,7 +944,7 @@
             "keywords": [
                 "tokenizer"
             ],
-            "time": "2014-03-03 05:10:30"
+            "time": "2014-03-03T05:10:30+00:00"
         },
         {
             "name": "phpunit/phpunit",
@@ -1018,7 +1018,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2014-05-02 07:13:40"
+            "time": "2014-05-02T07:13:40+00:00"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -1075,7 +1075,7 @@
                 "mock",
                 "xunit"
             ],
-            "time": "2014-05-02 07:04:11"
+            "time": "2014-05-02T07:04:11+00:00"
         },
         {
             "name": "phuedx/tnetstring",
@@ -1126,7 +1126,7 @@
                 "source": "https://github.com/phuedx/tnetstring/tree/master",
                 "issues": "https://github.com/phuedx/tnetstring/issues"
             },
-            "time": "2014-12-10 19:55:58"
+            "time": "2014-12-10T19:55:58+00:00"
         },
         {
             "name": "sebastian/comparator",
@@ -1191,7 +1191,7 @@
                 "compare",
                 "equality"
             ],
-            "time": "2014-05-02 07:05:58"
+            "time": "2014-05-02T07:05:58+00:00"
         },
         {
             "name": "sebastian/diff",
@@ -1241,7 +1241,7 @@
             "keywords": [
                 "diff"
             ],
-            "time": "2013-08-03 16:46:33"
+            "time": "2013-08-03T16:46:33+00:00"
         },
         {
             "name": "sebastian/environment",
@@ -1292,7 +1292,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2014-02-18 16:17:19"
+            "time": "2014-02-18T16:17:19+00:00"
         },
         {
             "name": "sebastian/exporter",
@@ -1358,7 +1358,7 @@
                 "export",
                 "exporter"
             ],
-            "time": "2014-02-16 08:26:31"
+            "time": "2014-02-16T08:26:31+00:00"
         },
         {
             "name": "sebastian/finder-facade",
@@ -1397,7 +1397,7 @@
             ],
             "description": "FinderFacade is a convenience wrapper for Symfony's Finder component.",
             "homepage": "https://github.com/sebastianbergmann/finder-facade",
-            "time": "2013-05-28 06:10:03"
+            "time": "2013-05-28T06:10:03+00:00"
         },
         {
             "name": "sebastian/phpcpd",
@@ -1448,7 +1448,7 @@
             ],
             "description": "Copy/Paste Detector (CPD) for PHP code.",
             "homepage": "https://github.com/sebastianbergmann/phpcpd",
-            "time": "2014-03-31 09:25:30"
+            "time": "2014-03-31T09:25:30+00:00"
         },
         {
             "name": "sebastian/version",
@@ -1483,36 +1483,39 @@
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
-            "time": "2014-03-07 15:35:33"
+            "time": "2014-03-07T15:35:33+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "1.5.3",
+            "version": "2.8.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "396178ada8499ec492363587f037125bf7b07fcc"
+                "url": "https://github.com/PHPCSStandards/PHP_CodeSniffer.git",
+                "reference": "d7cf0d894e8aa4c73712ee4a331cc1eaa37cdc7d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/396178ada8499ec492363587f037125bf7b07fcc",
-                "reference": "396178ada8499ec492363587f037125bf7b07fcc",
+                "url": "https://api.github.com/repos/PHPCSStandards/PHP_CodeSniffer/zipball/d7cf0d894e8aa4c73712ee4a331cc1eaa37cdc7d",
+                "reference": "d7cf0d894e8aa4c73712ee4a331cc1eaa37cdc7d",
                 "shasum": ""
             },
             "require": {
+                "ext-simplexml": "*",
                 "ext-tokenizer": "*",
+                "ext-xmlwriter": "*",
                 "php": ">=5.1.2"
             },
-            "suggest": {
-                "phpunit/php-timer": "dev-master"
+            "require-dev": {
+                "phpunit/phpunit": "~4.0"
             },
             "bin": [
-                "scripts/phpcs"
+                "scripts/phpcs",
+                "scripts/phpcbf"
             ],
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-phpcs-fixer": "2.0.x-dev"
+                    "dev-master": "2.x-dev"
                 }
             },
             "autoload": {
@@ -1521,12 +1524,12 @@
                     "CodeSniffer/CLI.php",
                     "CodeSniffer/Exception.php",
                     "CodeSniffer/File.php",
+                    "CodeSniffer/Fixer.php",
                     "CodeSniffer/Report.php",
                     "CodeSniffer/Reporting.php",
                     "CodeSniffer/Sniff.php",
                     "CodeSniffer/Tokens.php",
                     "CodeSniffer/Reports/",
-                    "CodeSniffer/CommentParser/",
                     "CodeSniffer/Tokenizers/",
                     "CodeSniffer/DocGenerators/",
                     "CodeSniffer/Standards/AbstractPatternSniff.php",
@@ -1552,13 +1555,32 @@
                     "role": "lead"
                 }
             ],
-            "description": "PHP_CodeSniffer tokenises PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
+            "description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.",
             "homepage": "http://www.squizlabs.com/php-codesniffer",
             "keywords": [
                 "phpcs",
                 "standards"
             ],
-            "time": "2014-05-01 03:07:07"
+            "support": {
+                "issues": "https://github.com/squizlabs/PHP_CodeSniffer/issues",
+                "source": "https://github.com/squizlabs/PHP_CodeSniffer",
+                "wiki": "https://github.com/squizlabs/PHP_CodeSniffer/wiki"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/PHPCSStandards",
+                    "type": "github"
+                },
+                {
+                    "url": "https://github.com/jrfnl",
+                    "type": "github"
+                },
+                {
+                    "url": "https://opencollective.com/php_codesniffer",
+                    "type": "open_collective"
+                }
+            ],
+            "time": "2017-03-01T22:17:45+00:00"
         },
         {
             "name": "symfony/console",
@@ -1613,7 +1635,7 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-27 13:34:57"
+            "time": "2014-04-27T13:34:57+00:00"
         },
         {
             "name": "symfony/finder",
@@ -1662,7 +1684,7 @@
             ],
             "description": "Symfony Finder Component",
             "homepage": "http://symfony.com",
-            "time": "2014-04-27 13:34:57"
+            "time": "2014-04-27T13:34:57+00:00"
         },
         {
             "name": "theseer/fdomdocument",
@@ -1702,28 +1724,28 @@
             ],
             "description": "The classes contained within this repository extend the standard DOM to use exceptions at all occasions of errors instead of PHP warnings or notices. They also add various custom methods and shortcuts for convenience and to simplify the usage of DOM.",
             "homepage": "https://github.com/theseer/fDOMDocument",
-            "time": "2014-02-19 00:20:43"
+            "time": "2014-02-19T00:20:43+00:00"
         }
     ],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "symfony/http-kernel": 0,
-        "symfony/routing": 0,
-        "symfony/dependency-injection": 0,
-        "symfony/config": 0,
-        "symfony/yaml": 0,
+        "kagency/http-replay": 15,
         "kore/data-object": 0,
         "pdepend/pdepend": 0,
         "phpmd/phpmd": 0,
         "phpunit/phpunit": 0,
-        "sebastian/phpcpd": 0,
-        "squizlabs/php_codesniffer": 0,
         "phuedx/tnetstring": 20,
-        "kagency/http-replay": 15
+        "sebastian/phpcpd": 0,
+        "symfony/config": 0,
+        "symfony/dependency-injection": 0,
+        "symfony/http-kernel": 0,
+        "symfony/routing": 0,
+        "symfony/yaml": 0
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": []
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
 }
